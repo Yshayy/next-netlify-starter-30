@@ -89,4 +89,4 @@ And lastly if you’d like to remove Cypress entirely, delete the entire `cypres
 npm uninstall -S cypress
 ```
 
---------
+-----------
